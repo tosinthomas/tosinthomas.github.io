@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<head>
+<link href="/normalize.css" rel="stylesheet">
+<style>
+header {
+       text-align: center;
+       background: url("https://i.imgur.com/VarDDO2.jpg");
+       background-size: cover;
+       color: white;
+}
+h1 {
+   font-size: 70px;
+}
+img {
+   margin: 40px 0px 0px 0px;
+   border: 7px solid pink;
+   border-radius: 10px;
+ }
+ul {
+  padding: 10px;
+  background: black;
+}
+li {
+  display: inline;
+  padding: 0px 10px 0px 10px;
+}
+</style>
+<Meet the Bio-Marketer, Oluwatosin Thomas>
+ </head>
+<body>
+<header>
+<image src="https://i.imgur.com/HHOW1ns.png">
+<hi>Bio-Marketer Blog</h1>
+<ul>
+ <li><a href="#"About Me</a></li>
+ <li><a href="My Magic Wand"</a></li>
+ <li><a href="#"Happy Clients"</a></li>
+
+ </body>
